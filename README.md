@@ -15,8 +15,6 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 ## User Story 
 
-Include your User Story you analyzed for your project here. Your User Story should have the following format: 
-
 As a marketer, I want to analyze which platform is best for paid advertising, so that I can increase client sales and reach the right audience.
 
 ## Dataset 
