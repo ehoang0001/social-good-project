@@ -19,23 +19,18 @@ As a marketer, I want to analyze which platform is best for paid advertising, so
 
 ## Dataset 
 
-Dataset: Advertising Platforms Dataset
+Dataset: Advertising Platforms Dataset (https://www.kaggle.com/datasets/ashydv/advertising-dataset)
 
-Platform (String) - name of the advertising platform (e.g., Instagram, Facebook)
-ConversionRate (int) - percentage of users who made a purchase after seeing the ad
+Description of Columns:
+Platform (String) - The name of the advertising platform (e.g., Instagram, Facebook).
+ConversionRate (int) - The percentage of users who made a purchase after seeing the ad.
 
-Example: 
-
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions 
-- **Country** (String) - name of the country 
-- **Population** (int) - number of people in the country 
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons 
 
 ## UML Diagram 
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README. 
 
-![UML Diagram for my project](nameOfImageFileHere.png) 
+![](https://i.ibb.co/rffZ4mq/image.png)
 
 ## Description 
 
